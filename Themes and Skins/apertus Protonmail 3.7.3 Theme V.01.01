@@ -1517,7 +1517,7 @@ body .cg-notify-message.notification-info {
 }
 
 body #conversation-list-rows .conversation {
-    color: var(--theme2);
+    color: var(--theme8);
     background: var(--theme7);
     box-shadow: inset 0 -1px 0 var(--theme4);
 }
@@ -1535,7 +1535,7 @@ body #conversation-list-rows .conversation .fa-star {
 }
 
 body #conversation-list-rows .conversation .subject h4 {
-    color: var(--white);
+    color: var(--theme8);
 }
 
 .unsubscribePanel-container {
@@ -1556,7 +1556,7 @@ body #conversation-list-rows .conversation.read, body #conversation-list-rows .c
 }
 
 body #conversation-list-rows .conversation.read .subject h4 {
-    color: var(--theme2)
+    color: var(--theme8)
 }
 
 .pm_button {
